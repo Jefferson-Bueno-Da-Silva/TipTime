@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hora da gorjeta</string>
+
+    <string name="const_of_service">Custo do Serviço</string>
+    <string name="how_was_the_service">Quanto custou o serviço?</string>
+    <string name="amazing_service">Incrivel (20%)</string>
+    <string name="okay_service">Okay (10%)</string>
+    <string name="f_service">Ruim (0%)</string>
+    <string name="round_up_tip">Arredondar a gorjeta?</string>
+    <string name="calculate">Calcular</string>
+    <string name="tip_amount">Quantia da gorjeta: %s</string>
+</resources>
